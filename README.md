@@ -1,2 +1,2 @@
-# Qt网络聊天室
+# Qt Online chat room
  
