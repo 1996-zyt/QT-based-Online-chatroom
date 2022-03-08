@@ -1,2 +1,1 @@
-# Qt Online chat room
- 
+# QT-based Online chat room
